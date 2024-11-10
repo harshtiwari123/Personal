@@ -1,4 +1,4 @@
-![Banner](./coverimage.png.png)
+![Banner](./coverimage.png)
 
 # Hi 👋, I'm Harsh Tiwari
 
