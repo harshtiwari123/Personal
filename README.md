@@ -17,7 +17,7 @@
 ---
 
 ### 👀 Profile Visits
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-350-blue?style=for-the-badge))
 
 ---
 
